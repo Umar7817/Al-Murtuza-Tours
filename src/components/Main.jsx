@@ -1,27 +1,29 @@
 import React from 'react'
+import './Global.css'
 
 function Main() {
   return (
     <div  className='main--div'>
         <div className='img-div'>
             <img className='image' src="https://media.islamicity.org/wp-content/uploads/2021/04/iStock-840887390.jpg" alt="image" />
-            <img className='image2' src="https://live.staticflickr.com/3541/3386416319_b4af73f16e_b.jpg" alt="image" />
+            <img className='image2' src="https://img.etimg.com/photo/92651301/92651301.jpg" alt="image" />
 
         </div>
         <div className='title'>
             <h1 className='header-h1'>Al-Murtuza</h1>
-            <h1 className='header-h1'>Hajj & Umarah</h1>
+            <h1>Tours & Travels</h1>
+            <h1 className='header-h1 header-h12'>Hajj & Umarah</h1>
         </div>
         <div className="landing-page">
       <header>
         <h1>Welcome to Al-Murtuza</h1>
-        <p>Your Trusted Partner for an Unforgettable Hajj Experience</p>
+        <p>Your Trusted Partner for an Unforgettable Hajj & Umarah Experience</p>
       </header>
 
       <section className="about-us">
         <h2>About Us</h2>
         <p>
-          Al-Murtuza is dedicated to providing a seamless and spiritually enriching Hajj experience.
+          Al-Murtuza is dedicated to providing a seamless and spiritually enriching Hajj & Umarah experience.
           With years of expertise, we ensure that your pilgrimage is filled with comfort, guidance, and memorable moments.
         </p>
       </section>

@@ -11,9 +11,13 @@ function Footer() {
             Have questions or ready to book your Hajj tour? Reach out to us:
           </p>
           <address>
-            Email: info@yourorganization.com
+            Email:  almurtuzatours@yahoo.com
             <br />
-            Phone: +1 123-456-7890
+            Mohamed Rafik Kuresh - 9624245031
+            <br />
+            Mohamed Fahad Kuresh - 9737991017
+            <br />
+            Address : 301 3rd Floor Moin Complex Opp Riyaz Hotel Jamalpur Chakla Ahmedabad 380001
           </address>
         </section>
         <p>

@@ -13,6 +13,7 @@
 }
 
 .main-div {
+  
   display: flex;
   justify-content: center;
   padding: 5px;
@@ -25,6 +26,8 @@
   top: 0;
   z-index: 1;
 }
+
+
 
 /* ---- main ----  */
 .main--div {
@@ -45,7 +48,7 @@
 
 .image2{
  
-  animation: zoom 25s ease-in-out infinite normal;
+  animation: zoom 20s ease-in-out infinite normal;
 }
 
 @keyframes zoom {
@@ -61,20 +64,25 @@
 }
 
 .title {
+  text-align: center;
   position: absolute;
-  top: 180px;
+  top: 10rem;
   font-family: "Philosopher", sans-serif;
   font-weight: 700;
   font-style: normal;
-  left: 60px;
+  left: 50px;
   font-style: normal;
-  font-size: 40px;
+  font-size: 38px;
   color: black;
   background-color: white;
-  padding: 20px;
+  padding: 15px;
   border-radius: 20px;
   opacity: 0.8;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.header-h12 {
+  color: #333;
 }
 
 .landing-page {
