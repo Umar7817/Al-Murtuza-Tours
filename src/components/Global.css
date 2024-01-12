@@ -171,8 +171,8 @@ footer {
 @media (max-width: 768px) {
   .title {
     top: 50px;
-    font-size: 25px;
-    left: 40px;
+    font-size: 20px;
+    left: 60px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;

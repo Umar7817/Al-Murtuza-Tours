@@ -6,7 +6,7 @@ function Main() {
     <div  className='main--div'>
         <div className='img-div'>
             <img className='image' src="https://media.islamicity.org/wp-content/uploads/2021/04/iStock-840887390.jpg" alt="image" />
-            <img className='image2' src="https://img.etimg.com/photo/92651301/92651301.jpg" alt="image" />
+            <img className='image2' src="https://i.pinimg.com/736x/fc/09/4f/fc094fee94ad934bb321b4f2ea1b42e0.jpg" alt="image" />
 
         </div>
         <div className='title'>
