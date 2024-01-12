@@ -32,6 +32,7 @@
 }
 
 .img-div {
+  /* background-image: url(https://media.islamicity.org/wp-content/uploads/2021/04/iStock-840887390.jpg); */
   height: 100vh;
   width: 100vw;
   overflow: hidden;
@@ -39,6 +40,11 @@
 
 .image {
   width: 100%;
+  animation: zoom 25s ease-in-out infinite normal;
+}
+
+.image2{
+ 
   animation: zoom 25s ease-in-out infinite normal;
 }
 
@@ -157,16 +163,25 @@ footer {
 @media (max-width: 768px) {
   .title {
     top: 50px;
-    font-size: 10px;
-    left: 10px;
+    font-size: 25px;
+    left: 40px;
     padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
   }
+
+  .header-h1 {
+    text-align: center;
+  }
+  
   header h1 {
     font-size: 2em;
   }
 
   header p {
     font-size: 1em;
+    
   }
 
   h2 {
@@ -187,6 +202,17 @@ footer {
   }
 
   .img-div {
-    height: 200px;
+    
+    height: 100vh;
+    background-image: url(https://live.staticflickr.com/3541/3386416319_b4af73f16e_b.jpg);
+    
+  }
+  .image {
+    display: none;
+  }
+  
+  .image2{
+    margin-right: auto;
+    margin-left: auto;
   }
 }

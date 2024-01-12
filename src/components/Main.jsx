@@ -5,10 +5,12 @@ function Main() {
     <div  className='main--div'>
         <div className='img-div'>
             <img className='image' src="https://media.islamicity.org/wp-content/uploads/2021/04/iStock-840887390.jpg" alt="image" />
+            <img className='image2' src="https://live.staticflickr.com/3541/3386416319_b4af73f16e_b.jpg" alt="image" />
+
         </div>
         <div className='title'>
-            <h1>Al-Murtuza</h1>
-            <h1>Hajj & Umarah</h1>
+            <h1 className='header-h1'>Al-Murtuza</h1>
+            <h1 className='header-h1'>Hajj & Umarah</h1>
         </div>
         <div className="landing-page">
       <header>
